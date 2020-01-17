@@ -17,7 +17,7 @@ _global_script_class_icons={
 
 config/name="FINAL PLATFORMER GAME"
 run/main_scene="res://player.tscn"
-config/icon="res://icon.png"
+config/icon="res://characters/icon.png"
 
 [display]
 
